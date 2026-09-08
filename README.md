@@ -237,3 +237,6 @@ This repository serves as the official landing page for Limbus Company. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Limbus Company today!**
+
+---
+**Last updated:** 2026-09-08 13:10:03 UTC
