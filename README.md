@@ -239,4 +239,4 @@ This repository serves as the official landing page for Limbus Company. The soft
 **Get the most recent version of Limbus Company today!**
 
 ---
-**Last updated:** 2026-09-27 19:37:38 UTC
+**Last updated:** 2026-09-27 22:41:02 UTC
